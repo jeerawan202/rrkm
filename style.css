@@ -1,0 +1,23 @@
+body{
+    margin: 11%;
+    padding: 0%;
+    background: linear-gradient(to right, hsl(46, 82%, 28%),#cc9d9d);
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    margin: 1% 0% -3% 0%;
+    font-family: Nunito, sans-serif;
+    -webkit-text-stroke:2px rgb(143, 32, 32);
+    color :  rgb(100, 39, 39);
+}
+p{
+    font-size: 2.5em;
+    margin: 9% 0% -3% 0%;
+    font-family: Nunito, sans-serif;
+    -webkit-text-stroke:2px rgba(172, 23, 23, 0.884);
+    color :  rgb(23, 180, 36);
+    margin-bottom: -4% ;
+}
